@@ -1,5 +1,7 @@
-dasdasdas
+package main
 
-dasdas
+import "fmt" 
 
-dsd
+func main() {
+	fmt.Println("Hello World!")
+}
